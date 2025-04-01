@@ -1,4 +1,4 @@
-var HUBSPOT_API_URL = ""; //Hubspot API - add between the quotes
+var HUBSPOT_API_URL = "https://api.hubapi.com/crm/v3/objects/deals"; //Hubspot API to import deals. If you change this you'll need to make a few tweaks
 var ACCESS_TOKEN = "";  // Actual OAuth access token - add between the quotes
 
 // Function to be triggered when the sheet is opened
